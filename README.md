@@ -15,4 +15,4 @@ Break down bigger tasks into smaller ones. The bigger tasks will fall under a pr
 Create an issue for the sub-task you want to accomplish.
 Make your own branch for each sub-task and make a Pull request to merge to the master branch.
 
-Use your best judgement as this are not rock hard rules.
+Use your best judgement as these are not rock hard rules.
